@@ -1,0 +1,14 @@
+{
+  "live_sources": [
+    {
+      "name": "主直播源",
+      "url": "https://gitee.com/qf_1111/iptv/raw/master/%E5%8F%AF%E7%94%A8%20.m3u8",
+      "is_default": true
+    },
+    {
+      "name": "备用直播源",
+      "url": "https://iptvlive.xo.je/proxy.php",
+      "is_default": false
+    }
+  ]
+}
