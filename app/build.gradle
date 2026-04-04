@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.yourcompany.iptv' // <--iptv
+    namespace 'com.yourcompany.iptv' // <-- 替换成你的包名
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.yourcompany.iptv" // <--iptv
+        applicationId "com.yourcompany.iptv" // <-- 替换成你的包名
         minSdk 21
         targetSdk 33
         versionCode 1
