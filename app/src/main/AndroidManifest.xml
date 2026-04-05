@@ -1,49 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yourcompany.iptv">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.your.iptv.packagename">
 
-    <!-- 网络权限 -->
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-
-    <uses-feature
-        android:name="android.hardware.touchscreen"
-        android:required="false" />
-    <uses-feature
-        android:name="android.software.leanback"
-        android:required="true" />
+    <!-- 强制合并所有库的权限，避免冲突 -->
+    <uses-permission android:name="android.permission.INTERNET" tools:node="merge" />
 
     <application
         android:allowBackup="true"
-        <!-- 关键：用系统默认图标，不用自己传 -->
-        android:icon="@android:drawable/ic_menu_gallery"
-        android:label="IPTV"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.IPTV">
+        android:theme="@style/Theme.IPTV"
+        tools:replace="android:theme,android:label"> <!-- 覆盖冲突主题/名称 -->
 
-        <activity
+        <!-- 所有Activity/Service必须显式声明exported -->
+        <活动
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".PlayerActivity"
-            android:exported="false" />
+    </申请>
 
-        <receiver
-            android:name=".receiver.BootReceiver"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </receiver>
-
-    </application>
-
-</manifest>
+</声明>
