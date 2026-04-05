@@ -1,33 +1,51 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-plugins {
-    id 'com.android.application' version '8.2.0' apply false
-    id 'org.jetbrains.kotlin.android' version '1.9.20' apply false
-}
-
+// ==============================================
+// 【严格遵守顺序】buildscript 必须在 plugins 之前
+// ==============================================
 buildscript {
     repositories {
+        // 国内优先阿里云镜像，加速下载
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        // 官方源兜底
         google()
         mavenCentral()
         gradlePluginPortal()
-        maven { url 'https://maven.aliyun.com/repository/google' }
-        maven { url 'https://maven.aliyun.com/repository/central' }
     }
     dependencies {
+        // 与 Gradle 8.5 完全兼容的版本
         classpath 'com.android.tools.build:gradle:8.2.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20"
     }
 }
 
+// ==============================================
+// 【必须在 buildscript 之后】plugins 块
+// ==============================================
+plugins {
+    id 'com.android.application' version '8.2.0' apply false
+    id 'org.jetbrains.kotlin.android' version '1.9.20' apply false
+}
+
+// ==============================================
+// 全局项目仓库配置（所有子项目共享）
+// ==============================================
 allprojects {
     repositories {
-        google()
-        mavenCentral()
+        // 国内镜像优先
         maven { url 'https://maven.aliyun.com/repository/google' }
         maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        // 官方源兜底
+        google()
+        mavenCentral()
     }
 }
 
+// ==============================================
+// 全局 clean 任务，一键清理构建缓存
+// ==============================================
 tasks.register('clean', Delete) {
     delete rootProject.buildDir
 }
-
