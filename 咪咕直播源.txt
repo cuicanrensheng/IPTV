@@ -1,5 +1,4 @@
 总台,#genre#
-CCTV1综合,#EXTM3U
 Unknown_1,http://8.138.7.223/tv/migu666.php?id=cctv1
 Unknown_2,http://8.138.7.223/tv/migu666.php?id=cctv2
 Unknown_3,http://8.138.7.223/tv/migu666.php?id=cctv3
