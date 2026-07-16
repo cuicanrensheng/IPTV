@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="90308" tvg-name="北京文艺" group-title="北京",北京文艺
+http://v.91kds.com/b7/btv1.m3u8?id=btv2&pwd=jsdecode
+#EXTINF:-1 tvg-id="90309" tvg-name="北京科教" group-title="北京",北京科教
+http://v.91kds.com/b7/btv1.m3u8?id=btv3&pwd=jsdecode
+#EXTINF:-1 tvg-id="95015" tvg-name="北京影视" group-title="北京",北京影视
+http://v.91kds.com/b7/btv1.m3u8?id=btv4&pwd=jsdecode
+#EXTINF:-1 tvg-id="90311" tvg-name="北京财经" group-title="北京",北京财经
+http://v.91kds.com/b7/btv1.m3u8?id=btv5&pwd=jsdecode
+#EXTINF:-1 tvg-id="95016" tvg-name="北京生活" group-title="北京",北京生活
+http://v.91kds.com/b7/btv1.m3u8?id=btv7&pwd=jsdecode
+#EXTINF:-1 tvg-id="90315" tvg-name="北京新闻" group-title="北京",北京新闻
+http://v.91kds.com/b7/btv1.m3u8?id=btv9&pwd=jsdecode
+#EXTINF:-1 tvg-id="192641" tvg-name="爱家购物" group-title="北京",爱家购物
+http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
+#EXTINF:-1 tvg-id="90251" tvg-name="卡酷少儿" group-title="北京",卡酷少儿 (480P)
+http://v.91kds.com/c7/btv.m3u8?id=btvkk&pwd=jsdecode
+#EXTINF:-1 tvg-id="90251" tvg-name="卡酷少儿" group-title="北京",卡酷少儿 (480P)
+http://v.91kds.com/b7/btv1.m3u8?id=btvkk&pwd=jsdecode
+#EXTINF:-1 tvg-id="110131" tvg-name="中国气象" group-title="北京",中国气象
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="90321" tvg-name="京视剧场" group-title="北京",京视剧场 (480P)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+#EXTINF:-1 tvg-id="90321" tvg-name="京视剧场" group-title="北京",京视剧场 (480P)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
+#EXTINF:-1 tvg-id="109294" tvg-name="清华大学电视台" group-title="北京",清华大学电视台 (480P)
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
+#EXTINF:-1 tvg-id="109294" tvg-name="清华大学电视台" group-title="北京",清华大学电视台 (480P)
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-id="192642" tvg-name="中国国际教育1" group-title="北京",中国国际教育1 (480P)
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 tvg-id="192642" tvg-name="中国国际教育1" group-title="北京",中国国际教育1 (480P)
+http://udnhls.skilldns.com/cectv1.m3u8
+#EXTINF:-1 tvg-id="192643" tvg-name="中国国际教育2" group-title="北京",中国国际教育2
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 tvg-id="192644" tvg-name="中国国际教育3" group-title="北京",中国国际教育3
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 tvg-id="192645" tvg-name="中国国际教育4" group-title="北京",中国国际教育4
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+#EXTINF:-1 tvg-id="120004" tvg-name="环球旅行" group-title="北京",环球旅行
+http://v.voosite.com/AppName/StreamName.m3u8
+#EXTINF:-1 tvg-id="110473" tvg-name="早期教育" group-title="北京",早期教育
+http://60.255.49.202/live/zqjy_4000.m3u8
+#EXTINF:-1 tvg-id="189017" tvg-name="文山综合" group-title="北京",文山综合 (480P)
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 tvg-id="189017" tvg-name="文山综合" group-title="北京",文山综合 (480P)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="90254" tvg-name="大兴新闻综合" group-title="北京",大兴新闻综合
+http://v.91kds.com/b7/polyv.m3u8?id=bjdxtv1&pwd=jsdecode
+#EXTINF:-1 tvg-id="189788" tvg-name="平谷电视台" group-title="北京",平谷电视台
+http://v.91kds.com/b7/bjpgtv.m3u8?id=bjpgtv1&pwd=jsdecode
+#EXTINF:-1 tvg-id="90322" tvg-name="置业频道" group-title="北京",置业频道
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-id="101120" tvg-name="书画频道" group-title="北京",书画频道
+http://125.210.152.18:9090/live/SH.m3u8
+#EXTINF:-1 tvg-id="189001" tvg-name="房山电视台" group-title="北京",房山电视台 (720P)
+https://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="189001" tvg-name="房山电视台" group-title="北京",房山电视台 (480P)
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="189001" tvg-name="房山电视台" group-title="北京",房山电视台 (480P)
+https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1 tvg-id="109293" tvg-name="石景山" group-title="北京",石景山 (480P)
+http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
+#EXTINF:-1 tvg-id="109293" tvg-name="石景山" group-title="北京",石景山 (480P)
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 tvg-id="110031" tvg-name="弈坛春秋" group-title="北京",弈坛春秋
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+#EXTINF:-1 tvg-id="110037" tvg-name="通州电视台" group-title="北京",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1 tvg-id="110038" tvg-name="顺义电视台" group-title="北京",顺义电视台
+https://livepgc.chinamcache.com/pgc/f37b95ea2af059da38e70df4f20bd1d6.flv?auth_key=1697077107-0-0-dff3093c02963f5b450b3098a2636bb4
+#EXTINF:-1 tvg-id="110039" tvg-name="门头沟电视台" group-title="北京",门头沟电视台
+http://v.91kds.com/b7/bjmtg.m3u8?id=bjmtg1&pwd=jsdecode

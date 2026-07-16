@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="50661" tvg-name="CCTV-1" group-title="央视",CCTV-1 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv1&miguid=608807420&epgid=cctv1&
+#EXTINF:-1 tvg-id="50661" tvg-name="CCTV-1" group-title="央视",CCTV-1 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=608807420&
+#EXTINF:-1 tvg-id="50661" tvg-name="CCTV-1" group-title="央视",CCTV-1 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8@0@1@@token@user_agent@CCTV1%E7%BB%BC%E5%90%88
+#EXTINF:-1 tvg-id="50662" tvg-name="CCTV-2" group-title="央视",CCTV-2 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv2&miguid=631780532&epgid=cctv2&
+#EXTINF:-1 tvg-id="50662" tvg-name="CCTV-2" group-title="央视",CCTV-2 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=631780532&
+#EXTINF:-1 tvg-id="50662" tvg-name="CCTV-2" group-title="央视",CCTV-2 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8@0@1@@token@user_agent@CCTV2%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 tvg-id="50663" tvg-name="CCTV-3" group-title="央视",CCTV-3 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=624878271&
+#EXTINF:-1 tvg-id="50663" tvg-name="CCTV-3" group-title="央视",CCTV-3 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv3&miguid=624878271&epgid=cctv3&
+#EXTINF:-1 tvg-id="50663" tvg-name="CCTV-3" group-title="央视",CCTV-3 (480P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?&zgyj=G_CCTV-2-HD&
+#EXTINF:-1 tvg-id="50663" tvg-name="CCTV-3" group-title="央视",CCTV-3 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8@0@1@@token@user_agent@CCTV3%E7%BB%BC%E8%89%BA
+#EXTINF:-1 tvg-id="50664" tvg-name="CCTV-4" group-title="央视",CCTV-4 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv4&miguid=631780421&epgid=cctv4&
+#EXTINF:-1 tvg-id="50664" tvg-name="CCTV-4" group-title="央视",CCTV-4 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=631780421&
+#EXTINF:-1 tvg-id="50664" tvg-name="CCTV-4" group-title="央视",CCTV-4 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8@0@1@@token@user_agent@CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
+#EXTINF:-1 tvg-id="50667" tvg-name="CCTV-5" group-title="央视",CCTV-5 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=641886683&
+#EXTINF:-1 tvg-id="50667" tvg-name="CCTV-5" group-title="央视",CCTV-5 (720P)
+http://mg.cttv.vip/641886683
+#EXTINF:-1 tvg-id="10101" tvg-name="CCTV5+" group-title="央视",CCTV5+ (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=641886773&
+#EXTINF:-1 tvg-id="10101" tvg-name="CCTV5+" group-title="央视",CCTV5+ (720P)
+http://mg.cttv.vip/641886773
+#EXTINF:-1 tvg-id="50668" tvg-name="CCTV-6" group-title="央视",CCTV-6 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv6&miguid=624878396&epgid=cctv6&
+#EXTINF:-1 tvg-id="50668" tvg-name="CCTV-6" group-title="央视",CCTV-6 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=624878396&
+#EXTINF:-1 tvg-id="50668" tvg-name="CCTV-6" group-title="央视",CCTV-6 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6&zy.m3u8@0@1@@token@user_agent@CCTV6%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-id="50669" tvg-name="CCTV-7" group-title="央视",CCTV-7 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=673168121&
+#EXTINF:-1 tvg-id="50669" tvg-name="CCTV-7" group-title="央视",CCTV-7 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv7&miguid=673168121&epgid=cctv7&
+#EXTINF:-1 tvg-id="50669" tvg-name="CCTV-7" group-title="央视",CCTV-7 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8@0@1@@token@user_agent@CCTV7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
+#EXTINF:-1 tvg-id="50670" tvg-name="CCTV-8" group-title="央视",CCTV-8 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=624878356&
+#EXTINF:-1 tvg-id="50670" tvg-name="CCTV-8" group-title="央视",CCTV-8 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv8&miguid=624878356&epgid=cctv8&
+#EXTINF:-1 tvg-id="50670" tvg-name="CCTV-8" group-title="央视",CCTV-8 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8@0@1@@token@user_agent@CCTV8%E7%94%B5%E8%A7%86%E5%89%A7
+#EXTINF:-1 tvg-id="50671" tvg-name="CCTV-9纪录" group-title="央视",CCTV-9纪录 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=673168140&
+#EXTINF:-1 tvg-id="50671" tvg-name="CCTV-9纪录" group-title="央视",CCTV-9纪录 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv9&miguid=673168140&epgid=cctv9&
+#EXTINF:-1 tvg-id="50671" tvg-name="CCTV-9纪录" group-title="央视",CCTV-9纪录 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8@0@1@@token@user_agent@CCTV9%E7%BA%AA%E5%BD%95
+#EXTINF:-1 tvg-id="50672" tvg-name="CCTV-10" group-title="央视",CCTV-10 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=624878405&
+#EXTINF:-1 tvg-id="50672" tvg-name="CCTV-10" group-title="央视",CCTV-10 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv10&miguid=624878405&epgid=cctv10&
+#EXTINF:-1 tvg-id="50672" tvg-name="CCTV-10" group-title="央视",CCTV-10 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8@0@1@@token@user_agent@CCTV10%E7%A7%91%E6%95%99
+#EXTINF:-1 tvg-id="50673" tvg-name="CCTV-11" group-title="央视",CCTV-11 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv11&miguid=667987558&epgid=cctv11&
+#EXTINF:-1 tvg-id="50673" tvg-name="CCTV-11" group-title="央视",CCTV-11 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=667987558&
+#EXTINF:-1 tvg-id="50673" tvg-name="CCTV-11" group-title="央视",CCTV-11 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8@0@1@@token@user_agent@CCTV11%E6%88%8F%E6%9B%B2
+#EXTINF:-1 tvg-id="50674" tvg-name="CCTV-12" group-title="央视",CCTV-12 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv12&miguid=673168185&epgid=cctv12&
+#EXTINF:-1 tvg-id="50674" tvg-name="CCTV-12" group-title="央视",CCTV-12 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=673168185&
+#EXTINF:-1 tvg-id="50674" tvg-name="CCTV-12" group-title="央视",CCTV-12 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8@0@1@@token@user_agent@CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
+#EXTINF:-1 tvg-id="50675" tvg-name="CCTV-13" group-title="央视",CCTV-13 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv13&miguid=608807423&epgid=cctv13&
+#EXTINF:-1 tvg-id="50675" tvg-name="CCTV-13" group-title="央视",CCTV-13 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=608807423&
+#EXTINF:-1 tvg-id="50675" tvg-name="CCTV-13" group-title="央视",CCTV-13 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8@0@1@@token@user_agent@CCTV13%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-id="10201" tvg-name="CCTV-14" group-title="央视",CCTV-14 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv14&miguid=624878440&epgid=cctv14&
+#EXTINF:-1 tvg-id="10201" tvg-name="CCTV-14" group-title="央视",CCTV-14 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=624878440&
+#EXTINF:-1 tvg-id="10201" tvg-name="CCTV-14" group-title="央视",CCTV-14 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14&zy.m3u8@0@1@@token@user_agent@CCTV14%E5%B0%91%E5%84%BF
+#EXTINF:-1 tvg-id="50677" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv15&miguid=673168223&epgid=cctv15&
+#EXTINF:-1 tvg-id="50677" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=673168223&
+#EXTINF:-1 tvg-id="50677" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8@0@1@@token@user_agent@CCTV15%E9%9F%B3%E4%B9%90
+#EXTINF:-1 tvg-id="50688" tvg-name="CCTV-16" group-title="央视",CCTV-16
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?&zgyj=G_CCTV-16-HQ&
+#EXTINF:-1 tvg-id="50683" tvg-name="CCTV-17" group-title="央视",CCTV-17 (480P)
+http://xproxy.yuntuds.com/lk/bstjx.m3u8?id=cctv17&miguid=673168256&epgid=cctv17&
+#EXTINF:-1 tvg-id="50683" tvg-name="CCTV-17" group-title="央视",CCTV-17 (720P)
+http://xproxy.yuntuds.com/lk/xjyx.m3u8?id=muguv4&name=673168256&
+#EXTINF:-1 tvg-id="50683" tvg-name="CCTV-17" group-title="央视",CCTV-17 (720P)
+http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8@0@1@@token@user_agent@CCTV17%E5%86%9C%E6%9D%91%E5%86%9C%E4%B8%9A
+#EXTINF:-1 tvg-id="12121" tvg-name="CGTN" group-title="央视",CGTN (720P)
+http://xproxy.yuntuds.com/lk/cnkw.m3u8?id=cctv9y&epgid=cctvdoc&
+#EXTINF:-1 tvg-id="12121" tvg-name="CGTN" group-title="央视",CGTN (480P)
+https://english-livebkws.cgtn.com/live/encgtn_1.m3u8
